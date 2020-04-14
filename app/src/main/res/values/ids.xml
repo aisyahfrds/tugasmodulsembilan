@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_save" type="id" />
+    <item name="button_delete" type="id" />
+    <item name="text_input_layout_title" type="id" />
+</resources>
